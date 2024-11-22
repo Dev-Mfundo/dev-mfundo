@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm an aspiring **full stack developer** passionat
 
 ## 📂 Projects  
 Here are a few projects I’m currently working on or have completed:  
-- <a href="https://dev-mfundo.github.io/personal-website/">**[My Portfolio](#)**</a> – A personal site showcasing my work as I learn and build new projects.
+- <a href="https://dev-mfundo.github.io/personal-website/">My Portfolio]</a> – A personal site showcasing my work as I learn and build new projects.
 - **[](#)** – A React-based... Still a work in progress!
 - **[](#)** – A React-based... Still a work in progress!
 
