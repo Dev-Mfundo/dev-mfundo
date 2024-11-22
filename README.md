@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm an aspiring **full stack developer** passionat
 
 ## 🌱 Learning Goals  
 - Mastering **React** for building efficient, scalable web applications.
-- Learning ** C# **, it might take a while though hahaha!
+- Learning **C#**, it might take a while though hahaha!
 - Strengthening my understanding of **front-end** and **back-end** to create more interactive and data-driven applications.
 - Building my **portfolio** website to showcase my work.
 - Continuously improving my coding practices and collaborating with the developer community.
