@@ -2,8 +2,6 @@
 
 # Hi there 👋, I'm **Aaron Jiane**!  
 
-![Hello GIF](https://media.giphy.com/media/ASd1M9a1MeugM/giphy.gif)
-
 Welcome to my GitHub profile! I'm an aspiring **full stack developer** passionate about building dynamic, responsive, and user-friendly web applications. As I embark on my coding journey, I'm diving deep into **MERN**, **C#** to become a full-stack developer.  
 
 ## 🚀 About Me  
@@ -40,8 +38,6 @@ Here are a few projects I’m currently working on or have completed:
 - **[My Portfolio Website](#)** – A personal site showcasing my work as I learn and build new projects.
 - **[](#)** – A React-based... Still a work in progress!
 - **[](#)** – A React-based... Still a work in progress!
-
-![Coding GIF](https://media.giphy.com/media/Vmzo7uV8XQ2Em/giphy.gif)
 
 Check out my repositories for more projects and experiments!
 
