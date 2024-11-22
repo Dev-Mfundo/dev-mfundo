@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm an aspiring **full stack developer** passionat
 
 ## 🌱 Learning Goals  
 - Mastering **React** for building efficient, scalable web applications.
-- Strengthening my understanding of **database management** and **SQL** to create more interactive and data-driven apps.
+- Learning ** C# **, it might take a while though hahaha!
+- Strengthening my understanding of **front-end** and **back-end** to create more interactive and data-driven applications.
 - Building my **portfolio** website to showcase my work.
 - Continuously improving my coding practices and collaborating with the developer community.
 
@@ -36,9 +37,9 @@ Here are a few projects I’m currently working on or have completed:
 - **[](#)** – A React-based... Still a work in progress!
 - **[](#)** – A React-based... Still a work in progress!
 
-Check out my repositories for more projects and experiments!
+Check out my repositories for more projects
 
 ## 🌍 Let's Connect!  
-I’m always excited to connect with other developers and learn from each other. Whether you’re a fellow learner or an experienced dev, feel free to drop me a message or send a pull request! 
+I’m always excited to connect with other developers. Whether you’re a fellow learner or an experienced dev, feel free to drop me a message or send a pull request! 
 
 Ujesu athi let's connect! ✨
