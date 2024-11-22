@@ -1,7 +1,4 @@
--<h2>Dev Mfundo</h2>
-
 # Hi there 👋, I'm **Aaron Jiane**!  
-
 Welcome to my GitHub profile! I'm an aspiring **full stack developer** passionate about building dynamic, responsive, and user-friendly web applications. As I embark on my coding journey, I'm diving deep into **MERN**, **C#** to become a full-stack developer.  
 
 ## 🚀 About Me  
