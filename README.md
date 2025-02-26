@@ -1,8 +1,8 @@
 # Hey! I'm **Aaron Jiane**! 🚀
-I'm an aspiring **full stack developer** passionate about building dynamic, responsive, and user-friendly web applications. As I embark on my coding journey, I'm diving deep into **MERN**, **C#** to become a full-stack developer.  
+I'm an aspiring **full stack developer** passionate about building dynamic, responsive, and user-friendly web applications. As I embark on my coding journey, I'm diving deep into **MERN** to become a full-stack developer.  
 
 ## 🚀About Me  
-- 🌱 **Currently learning**: React,Node.js + PostgreSQL, C#, and trying to understand front-end technologies better and improve.
+- 🌱 **Currently learning**: React,Node.js + PostgreSQL, and trying to understand front-end technologies better and improve.
 - 🔭 **Working on**: Building interactive web apps, experimenting with new JavaScript features, and developing my own portfolio site.
 - 👯 **Collaboration**: Oh any interesting web development challenges! Feel free to reach out if you want to team up.
 - 💬 **Ask me about**: Web development, coding tips, JavaScript Php, or anything tech-related! I'm always happy to chat and learn new things.
@@ -16,7 +16,7 @@ I'm an aspiring **full stack developer** passionate about building dynamic, resp
 ![PHP Badge](https://img.shields.io/badge/PHP-8.0-blue?style=flat-square)
 
 - **Languages**: JavaScript, PHP
-- **Front-End**: React, jQuery, Bootstrap
+- **Front-End**: React
 - **Back-End**: MySQL, PHP
 
 ## 🌱 Learning Goals  
