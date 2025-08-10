@@ -1,45 +1,38 @@
-# Hey! I'm **Aaron Jiane**! 🚀
-I'm an aspiring **full stack developer** passionate about building dynamic, responsive, and user-friendly web applications. As I embark on my coding journey, I'm diving deep into **MERN** to become a full-stack developer.  
+# Hi, I'm [Aaron Jiane]  
 
-## 🚀About Me  
-- 🌱 **Currently learning**: React,Node.js + PostgreSQL, and trying to understand front-end technologies better and improve.
-- 🔭 **Working on**: Building interactive web apps, experimenting with new JavaScript features, and developing my own portfolio site.
-- 👯 **Collaboration**: Oh any interesting web development challenges! Feel free to reach out if you want to team up.
-- 💬 **Ask me about**: Web development, coding tips, JavaScript Php, or anything tech-related! I'm always happy to chat and learn new things.
-- 📫 **How to reach me**:  
-  - **LinkedIn**: <a href="https://www.linkedin.com/in/aaron-jiane-350546225/" target="_blank">Linkedin@dev-mfundo</a>
+**Full-stack JavaScript Developer**
 
-## 🔧 Tech Stack & Tools
+---
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-brightgreen?style=flat-square)
-![React Badge](https://img.shields.io/badge/React-16.13-blue?style=flat-square)
-![PHP Badge](https://img.shields.io/badge/PHP-8.0-blue?style=flat-square)
+### 👨‍💻 About Me  
+I like all things tech and gaming.   
 
-- **Languages**: JavaScript, PHP
-- **Front-End**: React
-- **Back-End**: MySQL, PHP
+**Currently leveling up in:**  
+- AI engineering, backend with Express + PostgreSQL, and React TypeScript  
+- System design principles that don’t crumble under real-world load  
+- Data structures, algorithms, and the art of not reinventing the wheel (unless it’s faster)  
 
-## 🌱 Learning Goals  
-- Mastering **React** for building efficient, scalable web applications.
-- Learning **C#**, it might take a while though hahaha!
-- Strengthening my understanding of **front-end** and **back-end** to create more interactive and data-driven applications.
-- Building my **portfolio** website to showcase my work.
-- Continuously improving my coding practices and collaborating with the developer community.
+---
 
-## 🤖 Fun Facts  
-- I’ve built a couple of small projects in my free time, but I’m excited to start working on bigger ones!
-- When I’m not coding, you’ll probably find me playing around with new tech or researching the latest web trends.
-- I believe in **continuous learning**—there's always something new to explore in the tech world!
+### 🛠 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-## 📂 Projects  
-Here are a few projects I’m currently working on or have completed:  
-- Portfolio: <a href="https://dev-mfundo.github.io/personal-website/">devmfundo.com</a> – My personal site showcasing projects.
-- **[](#)** – A React-based... Still a work in progress!
-- **[](#)** – A React-based... Still a work in progress!
+---
 
-Check out my repositories for more projects
+### 📈 GitHub Stats  
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
-## 🌍 Let's Connect!  
-I’m always excited to connect with other developers. Whether you’re a fellow learner or an experienced dev, feel free to drop me a message or send a pull request! 
+---
 
-Ujesu athi let's connect! ✨
+### 📫 Contact  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](YOUR_LINKEDIN)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
