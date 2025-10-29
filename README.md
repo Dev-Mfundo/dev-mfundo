@@ -8,7 +8,7 @@
 I like all things tech and gaming.   
 
 **Currently leveling up in:**  
-- AI engineering, backend with Express + PostgreSQL, and React TypeScript  
+- TypeScript, Python, Kubernetes 
 - System design principles that don’t crumble under real-world load  
 - Data structures, algorithms, and the art of not reinventing the wheel (unless it’s faster)  
 
