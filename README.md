@@ -27,4 +27,4 @@ I like all things tech and gaming.
 
 ### 📫 Contact  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-jiane-350546225/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://dev-mfundo.github.io/personal-website/index.html)  
