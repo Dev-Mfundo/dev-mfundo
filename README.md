@@ -1,6 +1,6 @@
 # Hi, I'm Aaron Jiane
 
-**Full-stack JavaScript Developer**
+**Junior Web Developer**
 
 ---
 
